@@ -1,0 +1,7 @@
+[package]
+name = "get_gift_war_tunder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+inputbot = "0.5.1"
